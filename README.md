@@ -11,6 +11,7 @@ Once they scroll down beyond the article and paragraph, they will see the search
 <img width="1440" alt="Screen Shot 2022-10-22 at 5 14 33 AM" src="https://user-images.githubusercontent.com/107032720/197334850-09bf6532-0300-4f1c-b5e3-c6184d92ab7a.png">
 
 If a user wanted to look up the sighting of a circular UFO sighting that occurred on January 1, 2010, in Benton, Arkansas, their search would look like this:
+
 <img width="269" alt="Screen Shot 2022-10-22 at 5 22 20 AM" src="https://user-images.githubusercontent.com/107032720/197334852-c2beb41d-adf3-4d2d-9271-2907af32b98f.png">
 
 Once the have filtered their search, the results will be show on a table to the right:
